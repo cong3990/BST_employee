@@ -1,0 +1,56 @@
+[
+    {
+        "ID": 1,
+        "Name": "Nguyen Ba Ngoc Dung",
+        "Date of Birth": "03/09/1990",
+        "Place of Birth": "VT"
+    },
+    {
+        "ID": 4,
+        "Name": "Python Awesome",
+        "Date of Birth": "02/07/1980",
+        "Place of Birth": "USA"
+    },
+    {
+        "ID": 5,
+        "Name": "Tony Tony Chopper",
+        "Date of Birth": "12/10/1989",
+        "Place of Birth": "JP"
+    },
+    {
+        "ID": 6,
+        "Name": "Johny Bravo",
+        "Date of Birth": "05/01/2000",
+        "Place of Birth": "UK"
+    },
+    {
+        "ID": 7,
+        "Name": "Sam Vo",
+        "Date of Birth": "09/03/1991",
+        "Place of Birth": "MT"
+    },
+    {
+        "ID": 9,
+        "Name": "Aisha Nguyen",
+        "Date of Birth": "09/11/2010",
+        "Place of Birth": "HCM"
+    },
+    {
+        "ID": 15,
+        "Name": "Monkey D. Luffy",
+        "Date of Birth": "03/09/1990",
+        "Place of Birth": "VT"
+    },
+    {
+        "ID": 20,
+        "Name": "Roronoa Zoro",
+        "Date of Birth": "02/07/1980",
+        "Place of Birth": "USA"
+    },
+    {
+        "ID": 170,
+        "Name": "Gold D. Ace",
+        "Date of Birth": "05/01/2000",
+        "Place of Birth": "UK"
+    }
+]
